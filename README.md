@@ -1,8 +1,7 @@
 # Xylophone 🎹
 
 ### Click on colorful keys to play xylophone! 
-[![screenshot](https://raw.githubusercontent.com/HiddeNoob/xylophone/photo.png)](https://raw.githubusercontent.com/HiddeNoob/xylophone/master/photo.png?token=GHSAT0AAAAAACOPVBFD4IYJIU5LJNMYLFPKZO7GXMA)
-
+<img src="https://raw.githubusercontent.com/HiddeNoob/xylophone/master/photo.png?token=GHSAT0AAAAAACOPVBFC2ROMJ5YBWZQBRG44ZO7GZSQ" width = 300>
 
 # How to download
 ```
